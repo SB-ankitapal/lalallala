@@ -8,10 +8,10 @@ properties:
     x-stoplight:
       id: jhpecymgq7ela
   sadcvfbg:
-    $ref: 'stoplight://resources/overrides/yHmzJXKkMUE'
+    $ref: 'stoplight://resources/overrides/fCLM66beEX0'
     x-stoplight:
       id: cpb0ysre4u4px
   qswderf:
-    $ref: 'stoplight://resources/overrides/QN24Qtc2pBk'
+    $ref: 'stoplight://resources/overrides/3vxsY5lZTW4'
     x-stoplight:
       id: x76h33ns1pl41
