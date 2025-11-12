@@ -8,7 +8,7 @@ properties:
     x-stoplight:
       id: x2uqsdw64tmpa
   sdcfv:
-    type: string
+    $ref: 'stoplight://resources/overrides/fCLM66beEX0'
     x-stoplight:
       id: qsjh9h737k1yh
   asdf:
@@ -16,6 +16,6 @@ properties:
     x-stoplight:
       id: dhsus5k7ir0aq
   qawsdcfv:
-    type: string
+    $ref: 'stoplight://resources/overrides/3vxsY5lZTW4'
     x-stoplight:
       id: gxjkiym28apzr
