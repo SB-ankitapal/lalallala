@@ -1,0 +1,21 @@
+title: model2
+x-stoplight:
+  id: oahmkcl3dusi3
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: x2uqsdw64tmpa
+  sdcfv:
+    type: string
+    x-stoplight:
+      id: qsjh9h737k1yh
+  asdf:
+    type: string
+    x-stoplight:
+      id: dhsus5k7ir0aq
+  qawsdcfv:
+    type: string
+    x-stoplight:
+      id: gxjkiym28apzr

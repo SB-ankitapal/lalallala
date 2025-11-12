@@ -1,0 +1,17 @@
+title: model3
+x-stoplight:
+  id: 49m724ru258oa
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: jhpecymgq7ela
+  sadcvfbg:
+    $ref: 'stoplight://resources/overrides/yHmzJXKkMUE'
+    x-stoplight:
+      id: cpb0ysre4u4px
+  qswderf:
+    $ref: 'stoplight://resources/overrides/QN24Qtc2pBk'
+    x-stoplight:
+      id: x76h33ns1pl41
